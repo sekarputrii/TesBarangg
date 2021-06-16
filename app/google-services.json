@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639652903646",
+    "project_id": "tesbarang-bc810",
+    "storage_bucket": "tesbarang-bc810.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639652903646:android:67c13ce4f978c635fde04f",
+        "android_client_info": {
+          "package_name": "com.example.tesbarang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639652903646-so2ev2eado7gvm88qkej34jsr3nek58g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi3DXHp7PFjJnmrKkC_GPKMw_jDJx1_AI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639652903646-so2ev2eado7gvm88qkej34jsr3nek58g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
