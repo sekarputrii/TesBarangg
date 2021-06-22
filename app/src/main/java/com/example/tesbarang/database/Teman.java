@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 public class Teman implements Serializable {
     String nama;
-    String telpon;
+    String telpon, kode;
 
     public Teman() {
     }
@@ -20,6 +20,13 @@ public class Teman implements Serializable {
 
     public void setNama(String nama) {
         this.nama = nama;
+    }
+
+    public String getKode(){
+        return kode;
+    }
+    public void setKode(String kode){
+        this.kode = kode;
     }
 
     public String getTelpon() {
