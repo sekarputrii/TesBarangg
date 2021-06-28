@@ -9,6 +9,7 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 
+import com.example.tesbarang.adapter.AdapterLihatTeman;
 import com.example.tesbarang.database.Teman;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
